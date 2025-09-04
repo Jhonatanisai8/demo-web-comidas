@@ -9,7 +9,10 @@
 </head>
 
 <body>
-    
+    <h1>Bienvenido a mi pagina web</h1>
+    <?php
+    include_once '_header.php';
+    ?>
 </body>
 
 </html>
